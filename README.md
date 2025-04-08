@@ -59,7 +59,7 @@ Follow the steps below to install:
 
 1. Download the latest version of Hydra from the [Releases](https://github.com/enmafps/hydra-launcher-guide/releases/latest) page.
    - Download only .exe if you want to install Hydra on Windows.
-   - Download .deb or .rpm or .zip if you want to install Hydra on Linux. (depends on your Linux distro)
+   - Download .deb or .pacman or .zip if you want to install Hydra on Linux. (depends on your Linux distro)
 2. Run the downloaded file.
 3. Enjoy Hydra!
 ## Build from source
