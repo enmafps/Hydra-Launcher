@@ -38,7 +38,6 @@
 
 [![build](https://img.shields.io/github/actions/workflow/status/hydralauncher/hydra/build.yml)](https://github.com/hydralauncher/hydra/actions)
 [![release](https://img.shields.io/github/package-json/v/hydralauncher/hydra)](https://github.com/hydralauncher/hydra/releases)
-[![Hydra Catalogue]](./docs/screenshot.png)
 
 </div>
 **Hydra** is a **Game Launcher** with its own embedded **BitTorrent Client**.
