@@ -1,4 +1,5 @@
 # THIS IS NOT AN ORIGINAL Hydra-Launcher Prepository I JUST MADE THIS FOR THE DOWNLAOD SOURCES
+# Original Link: https://github.com/hydralauncher/hydra
 
 - Go to settings
 - Download Sources
