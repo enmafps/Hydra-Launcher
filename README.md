@@ -5,6 +5,11 @@
 - Import
 - And Copy paste every link individually
 
+# OR
+- Go To this link
+- https://hydralinks.cloud/
+- And press install on hydra whichever Download Source You think feel is safe
+
 		https://hydralinks.cloud/sources/xatab.json
 		https://hydralinks.cloud/sources/tinyrepacks.json
 		https://hydralinks.cloud/sources/onlinefix.json
