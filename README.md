@@ -38,52 +38,9 @@
 
 [![build](https://img.shields.io/github/actions/workflow/status/hydralauncher/hydra/build.yml)](https://github.com/hydralauncher/hydra/actions)
 [![release](https://img.shields.io/github/package-json/v/hydralauncher/hydra)](https://github.com/hydralauncher/hydra/releases)
-
-[![pt-BR](https://img.shields.io/badge/lang-pt--BR-green.svg)](./docs/README.pt-BR.md)
-[![en](https://img.shields.io/badge/lang-en-red.svg)](./README.md)
-[![ru](https://img.shields.io/badge/lang-ru-yellow.svg)](./docs/README.ru.md)
-[![uk-UA](https://img.shields.io/badge/lang-uk--UA-blue)](./docs/README.uk-UA.md)
-[![be](https://img.shields.io/badge/lang-be-orange)](./docs/README.be.md)
-[![es](https://img.shields.io/badge/lang-es-red)](./docs/README.es.md)
-[![fr](https://img.shields.io/badge/lang-fr-blue)](./docs/README.fr.md)
-[![de](https://img.shields.io/badge/lang-de-black)](./docs/README.de.md)
-[![ita](https://img.shields.io/badge/lang-it-red)](./docs/README.it.md)
-[![cs](https://img.shields.io/badge/lang-cs-purple)](./docs/README.cs.md)
-[![da](https://img.shields.io/badge/lang-da-red)](./docs/README.da.md)
-[![nb](https://img.shields.io/badge/lang-nb-blue)](./docs/README.nb.md)
-[![ee](https://img.shields.io/badge/lang-et-blue.svg)](./docs/README.et.md)
-
-![Hydra Catalogue](./docs/screenshot.png)
+[![Hydra Catalogue]](./docs/screenshot.png)
 
 </div>
-
-## Table of Contents
-
-- [Table of Contents](#table-of-contents)
-- [About](#about)
-- [Features](#features)
-- [Installation](#installation)
-- [Contributing](#-contributing)
-  - [Join our Telegram](#-join-our-telegram)
-  - [Fork and clone your repository](#fork-and-clone-your-repository)
-  - [Ways you can contribute](#ways-you-can-contribute)
-  - [Project Structure](#project-structure)
-- [Build from source](#build-from-source)
-  - [Install Node.js](#install-nodejs)
-  - [Install Yarn](#install-yarn)
-  - [Install Node Dependencies](#install-node-dependencies)
-  - [Install Python 3.9](#install-python-39)
-  - [Install Python Dependencies](#install-python-dependencies)
-- [Environment variables](#environment-variables)
-- [Running](#running)
-- [Build](#build)
-  - [Build the bittorrent client](#build-the-bittorrent-client)
-  - [Build the Electron application](#build-the-electron-application)
-- [Contributors](#contributors)
-- [License](#license)
-
-## About
-
 **Hydra** is a **Game Launcher** with its own embedded **BitTorrent Client**.
 <br>
 The launcher is written in TypeScript (Electron) and Python, which handles the torrenting system by using libtorrent.
@@ -106,32 +63,6 @@ Follow the steps below to install:
    - Download .deb or .rpm or .zip if you want to install Hydra on Linux. (depends on your Linux distro)
 2. Run the downloaded file.
 3. Enjoy Hydra!
-
-## <a name="contributing"> Contributing
-
-### <a name="join-our-telegram"></a> Join our Telegram
-
-We concentrate our discussions on our [Telegram](https://t.me/hydralauncher) channel.
-
-### Fork and clone your repository
-
-1. Fork the repository [(click here to fork now)](https://github.com/hydralauncher/hydra/fork)
-2. Clone your forked code `git clone https://github.com/your_username/hydra`
-3. Create a new branch
-4. Push your commits
-5. Submit a new Pull Request
-
-### Ways you can contribute
-
-- Translation: We want Hydra to be available to as many people as possible. Feel free to help translate to new languages or update and improve the ones that are already available on Hydra.
-- Code: Hydra is built with Typescript, Electron and a little bit of Python. If you want to contribute, join our [Telegram](https://t.me/hydralauncher)!
-
-### Project Structure
-
-- torrent-client: We use libtorrent, a Python library, to manage torrent downloads
-- src/renderer: the UI of the application
-- src/main: all the logic rests here.
-
 ## Build from source
 
 ### Install Node.js
