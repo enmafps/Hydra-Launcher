@@ -1,5 +1,10 @@
 # THIS IS NOT AN ORIGINAL Hydra-Launcher Prepository I JUST MADE THIS FOR THE DOWNLAOD SOURCES
-	OR just press this link: https://hydralinks.cloud/
+
+- Go to settings
+- Download Sources
+- Import
+- And Copy paste every link individually
+
 	https://hydralinks.cloud/sources/xatab.json
 	https://hydralinks.cloud/sources/tinyrepacks.json
 	https://hydralinks.cloud/sources/onlinefix.json
