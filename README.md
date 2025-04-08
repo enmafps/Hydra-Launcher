@@ -40,7 +40,7 @@
 [![release](https://img.shields.io/github/package-json/v/hydralauncher/hydra)](https://github.com/hydralauncher/hydra/releases)
 
 </div>
-**Hydra** is a **Game Launcher** with its own embedded **BitTorrent Client**.
+***Hydra*** is a ***Game Launcher*** with its own embedded ***BitTorrent Client***.
 <br>
 The launcher is written in TypeScript (Electron) and Python, which handles the torrenting system by using libtorrent.
 
