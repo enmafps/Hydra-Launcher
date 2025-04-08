@@ -21,4 +21,4 @@
 # OR
 - Go To this link
 - https://hydralinks.cloud/
-- And press install on hydra whichever Download Source You think feel is safe
+- And press install on hydra whichever Download Source You feel is safe
